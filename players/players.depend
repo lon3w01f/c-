@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1508519392 source:a:\c++\players\basicstats.cpp
+	"basicstats.h"
+
+1508519348 a:\c++\players\basicstats.h
+
+1508607288 source:a:\c++\players\main.cpp
+	<iostream>
+	"players.h"
+	"champclass.h"
+
+1508607426 source:a:\c++\players\players.cpp
+	"players.h"
+	"champclass.h"
+
+1508607426 a:\c++\players\players.h
+	<string>
+	"champclass.h"
+	"basicstats.h"
+
+1508519138 a:\c++\players\champclass.h
+	<iostream>
+	"basicstats.h"
+	<string>
+
+1508520555 source:a:\c++\players\champclass.cpp
+	"champclass.h"
+
